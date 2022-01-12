@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zer0-xd&label=Profile%20views&color=0e75b6&style=flat" alt="zer0-xd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@1yc4n" target="blank"><img src="https://img.shields.io/twitter/follow/@1yc4n?logo=twitter&style=for-the-badge" alt="@1yc4n" /></a> </p>
-
 - 🌱 I’m currently learning **React Native**
 
 <h3 align="left">Connect with me:</h3>
