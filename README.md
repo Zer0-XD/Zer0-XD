@@ -2,9 +2,11 @@
 
 <h3 align="center">I am a passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zer0-xd&label=Profile%20views&color=0e75b6&style=flat" alt="zer0-xd" /> </p>
+- 👨‍💻 Working in **ReactJs**
 
-- 🌱 I’m currently learning **React Native**
+- 👨 Experienced in **Javascript**
+
+- 🌱 I’m currently learning **WebGl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
