@@ -4,7 +4,7 @@
 <h3 align="center">I am Anees</h3>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 Working in **ReactJs**
+- 👨‍💻 Currently Working in **ReactJs**
 
 - 👨 Experienced in **Javascript**
 
