@@ -19,3 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0-xd&show_icons=true&locale=en&layout=compact" alt="zer0-xd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zer0-xd&show_icons=true&locale=en" alt="zer0-xd" /></p>
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Zer0-XD}/count.svg)
