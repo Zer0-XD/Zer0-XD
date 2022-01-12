@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<h3 align="center">I am a passionate frontend developer</h3>
+
+<h3 align="center">I am Anees</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 👨‍💻 Working in **ReactJs**
 
