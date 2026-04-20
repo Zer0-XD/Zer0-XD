@@ -19,16 +19,16 @@ Senior Fullstack Engineer
 </div>
 </h1>
 
-Building scalable products from database to deployment . web, mobile, and everywhere in between.
+<!-- Building scalable products from database to deployment . web, mobile, and everywhere in between. -->
 
 
 <!-- `Available for senior, lead & founding engineer roles` &nbsp;·&nbsp; `Remote-friendly` -->
 
 </div>
 
----
+<!-- --- -->
 
-## About me
+<!-- ## About me -->
 
 Senior frontend engineer with 10+ years shipping production web apps across e-commerce, editorial, and enterprise. I specialize in React, Next.js, Vue/Nuxt, and design systems with backend fluency in Node.js, GraphQL, and Sanity CMS. I obsess over Performance metrics, zero layout shift, and component architecture. Currently expanding into WebGL for immersive 3D experiences. I've led frontend teams, mentored juniors, and consistently delivered pixel-perfect interfaces across agencies and enterprise clients.
 
