@@ -1,9 +1,6 @@
 <div align="center">
-</div>
 
-<div align="center">
-
-# Hi, I am Anees 👋🏻👋🏻👋🏻👋🏻
+## Hi, I am Anees 👋🏻👋🏻👋🏻👋🏻
 <h1>
 Senior Fullstack Engineer
 <div align="center">
