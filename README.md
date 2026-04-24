@@ -112,7 +112,7 @@ Senior frontend engineer with 10+ years shipping production web apps across e-co
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0-xd&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=161b22" alt="Top Languages" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer0-xd&theme=dark&hide_border=true&background=161b22" alt="GitHub Streak" />
-</p> -->
+</p> 
 
 ---
 
@@ -122,3 +122,5 @@ Senior frontend engineer with 10+ years shipping production web apps across e-co
 *Let's build something great.*
 
 </div>
+
+-->
