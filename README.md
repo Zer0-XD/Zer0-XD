@@ -83,6 +83,7 @@ Senior frontend engineer with 10+ years shipping production web apps across e-co
  
 ---
 
+<!--
 ## What I bring
 
 | | |
@@ -93,7 +94,8 @@ Senior frontend engineer with 10+ years shipping production web apps across e-co
 | **Cross-platform** | Web + iOS + Android from a single React Native codebase |
 | **Team leadership** | Code reviews, documentation, and mentoring junior devs |
 | **Startup pace** | Fast mover who doesn't cut corners on quality |
-
+-->
+<!--
 ---
 
 ## Currently Exploring
@@ -102,14 +104,15 @@ Senior frontend engineer with 10+ years shipping production web apps across e-co
 📱 &nbsp;**React Native at scale** : architecture patterns for production mobile apps
 
 ---
+-->
 
+
+<!-- <p align="center">
 ## GitHub Stats
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0-xd&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=161b22" alt="Top Languages" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer0-xd&theme=dark&hide_border=true&background=161b22" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
